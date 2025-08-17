@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Memed",
+    "slug": "memed",
+    "version": "1.0.0",
+    "icon": "./assets/AppIcons/Assets.xcassets/AppIcon.appiconset/_/1024.png",
+    "splash": {
+      "image": "./assets/AppIcons/Assets.xcassets/AppIcon.appiconset/_/1024.png",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "bundleIdentifier": "com.memed.app"
+    },
+    "android": {
+      "package": "com.memed.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0fc13559-fff6-480c-925a-4494873f42f5"
+      }
+    }
+  }
+}

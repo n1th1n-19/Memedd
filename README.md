@@ -31,8 +31,8 @@ A React Native app for browsing memes with swipe gestures and smooth animations.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd Memed-frontend
+git clone https://github.com/n1th1n-19/Memedd.git
+cd Memedd
 ```
 
 2. Install dependencies:

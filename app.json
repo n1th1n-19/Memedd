@@ -9,7 +9,10 @@
       "backgroundColor": "#000000"
     },
     "ios": {
-      "bundleIdentifier": "com.memed.app"
+      "bundleIdentifier": "com.memed.app",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "com.memed.app"
